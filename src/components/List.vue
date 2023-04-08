@@ -10,7 +10,6 @@
                             </del>
                         </span>
                         <span v-else>{{ todo.activity }}</span>
-
                     </div>
                     <div class="col-auto">
                         <div class="row gx-2">
